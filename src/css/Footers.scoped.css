@@ -1,0 +1,23 @@
+li a {
+  text-decoration: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.mokleters-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.text-desc-footer {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
